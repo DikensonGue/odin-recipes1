@@ -1,3 +1,3 @@
 # odin-recipes1
-website.
+website;
 A website for kid
